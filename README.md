@@ -48,6 +48,3 @@ This project is designed to run seamlessly in Google Colab.
 
 Feel free to fork this repository, open issues, or submit pull requests.
 
-## License
-
-[Specify your license, e.g., MIT License - see LICENSE file for details]
